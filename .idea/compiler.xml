@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="diamond-server" />
+        <module name="diamond-sdk" />
+        <module name="diamond-utils" />
+        <module name="diamond-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="diamond-all" target="1.7" />
+      <module name="diamond-client" target="1.7" />
+      <module name="diamond-sdk" target="1.7" />
+      <module name="diamond-server" target="1.7" />
+      <module name="diamond-utils" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

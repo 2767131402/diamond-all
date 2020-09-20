@@ -1,7 +1,7 @@
 diamond
 =======
 
-来自淘宝diamond：http://code.taobao.org/p/diamond/src/
+配合 https://github.com/2767131402/Config_From_DB.git 项目使用
 
 diamond设计上的一些问题？
 ==

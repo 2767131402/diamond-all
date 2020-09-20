@@ -1,9 +1,9 @@
 diamond
 =======
 
-配合 https://github.com/2767131402/Config_From_DB.git 项目使用
-使用方法： 将diamond-server 打成war包放到Tomcat下运行
-WEB地址：http://ip:port/tomcat项目路径  port配置在com.taobao.diamond.common.Constants.DEFAULT_PORT下
+#####配合 https://github.com/2767131402/Config_From_DB.git 项目使用
+#####使用方法： 将diamond-server 打成war包放到Tomcat下运行
+#####WEB地址：http://ip:port/tomcat项目路径  port配置在com.taobao.diamond.common.Constants.DEFAULT_PORT下
 
 diamond设计上的一些问题？
 ==
